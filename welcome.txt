@@ -1,0 +1,12 @@
+		WELCOME TO GYMFIT SYSTEM BY 191020869!
+
+	GYMFit is a powerful, easy-to-use gym management system 
+	designed for gym owners & trainers. Our fitness system 
+	provides all the management tools you need to run your 
+	gym smoothly and efficiently, saving time and money.
+	
+	SIMPLIFY YOUR GYM MANAGEMENT WITH GYMFIT !
+
+
+	Copyright @ 2021 by AMIRUL
+			
